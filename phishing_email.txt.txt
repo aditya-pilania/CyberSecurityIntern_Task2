@@ -1,0 +1,19 @@
+Subject: Immediate Action Required – ICICI Account Suspension Alert
+
+From: ICICI Bank <secure@icicibank-security.com>
+To: you@example.com
+
+Dear Customer,
+
+Due to suspicious login attempts, your ICICI Bank account access has been temporarily restricted.
+
+To continue using your account without interruption, please verify your account information immediately by clicking the secure link below:
+
+👉 https://icicibank.verify-nowlogin.net
+
+Failure to confirm your account within 24 hours will result in permanent deactivation.
+
+Thank you for banking with ICICI.
+
+Sincerely,  
+ICICI Bank Customer Support
