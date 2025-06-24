@@ -1,0 +1,13 @@
+Return-Path: <noreply@icicibank.com>
+Received: from mail.icicibank.com (mail.icicibank.com. [203.27.235.120])
+  by smtp.gmail.com with ESMTPS id abcdefg123456
+  for <you@example.com>;
+  Mon, 24 Jun 2024 10:15:00 +0530
+From: "ICICI Bank" <noreply@icicibank.com>
+Reply-To: noreply@icicibank.com
+To: you@example.com
+Subject: Your ICICI Bank Account Statement is Ready
+Date: Mon, 24 Jun 2024 10:15:00 +0530
+Message-ID: <abcdef123456@mail.icicibank.com>
+Content-Type: text/html; charset="UTF-8"
+Authentication-Results: spf=pass (gmail.com: domain of icicibank.com designates 203.27.235.120 as permitted sender); dkim=pass; dmarc=pass

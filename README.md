@@ -6,7 +6,7 @@ This repositorycontains a practical analysis of **phishing email samples**, incl
 
 The purpose of this task is to understand how phishing emails are structured and how we can analyze their **content and headers** to detect threats.
 
-0---
+---
 
 ## Key Concepts That Is Important To Know
 
@@ -52,7 +52,7 @@ Then I Checked for:
 |-----------|-------------|
 | `phishing_email.txt` | Fake phishing email pretending to be ICICI Bank |
 | `phishing_header.txt` | Header of spoofed email |
-| `same_email.txt` | Clean, legitimate-looking email |
+| `safe_email.txt` | Clean, legitimate-looking email |
 | `safe_header.txt` | Header of legit email |
 | `phishing_analysis_report.md` | Detailed report on spoofed email analysis |
 | `README.md` | This file – full documentation of the project |
@@ -65,4 +65,5 @@ This task helped build a practical skills in:
 - Spotting phishing and spoofed emails
 - Analyzing email headers
 - Understanding how attackers try to manipulate user trust
+
 
