@@ -1,0 +1,10 @@
+Return-Path: <secure@icicibank-security.com>
+Received: from unknown (HELO mail.icicibank-security.com) (192.0.2.24)
+  by smtp.fake-mail.net with SMTP; Fri, 21 Jun 2024 10:30:00 +0530
+From: "ICICI Bank" <secure@icicibank-security.com>
+Reply-To: verify@support-verification.info
+To: you@example.com
+Subject: Immediate Action Required – ICICI Account Suspension Alert
+Date: Fri, 21 Jun 2024 10:30:00 +0530
+Message-ID: <ICICI-00112233@mail.icicibank-security.com>
+Content-Type: text/html
