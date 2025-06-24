@@ -8,7 +8,7 @@ The purpose of this task is to understand how phishing emails are structured and
 
 ---
 
-## Key Concepts That Is Important To Know
+## Key Concepts That Are Important To Know
 
 ### What is Phishing?
 Phishing is a type of cyberattack in which an attacker poses as a trustworthy entity to trick individuals into revealing sensitive information like passwords, credit card numbers, or OTPs. It usually comes via emails, SMS, or fake websites.
